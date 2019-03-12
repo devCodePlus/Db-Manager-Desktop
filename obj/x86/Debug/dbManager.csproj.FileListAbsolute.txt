@@ -1,0 +1,90 @@
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\Manager\obj\x86\Debug\Attach_Detach.exe
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\Manager\obj\x86\Debug\Attach_Detach.pdb
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\obj\x86\Debug\Attach_Detach.exe
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\obj\x86\Debug\Attach_Detach.pdb
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\bin\Debug\dbManager.exe
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\bin\Debug\dbManager.pdb
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\obj\x86\Debug\Attach_Detach.Form1.resources
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\obj\x86\Debug\dbManager.exe
+E:\01_Coding\VS\_VS Projects\ZZZ\dbManager\dbManager\obj\x86\Debug\dbManager.pdb
+F:\01_Coding\C#\C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.exe
+F:\01_Coding\C#\C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.pdb
+F:\01_Coding\C#\C# Projects\dbManager\dbManager\bin\Debug\dbManager.exe
+F:\01_Coding\C#\C# Projects\dbManager\dbManager\bin\Debug\dbManager.pdb
+F:\01_Coding\C#\C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.csprojResolveAssemblyReference.cache
+F:\01_Coding\C#\C# Projects\dbManager\dbManager\obj\x86\Debug\Attach_Detach.Form1.resources
+F:\01_Coding\C#\C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+F:\01_Coding\C#\C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.csproj.GenerateResource.Cache
+F:\01_Coding\C#\_C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.exe
+F:\01_Coding\C#\_C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.pdb
+F:\01_Coding\C#\_C# Projects\dbManager\dbManager\bin\Debug\dbManager.exe
+F:\01_Coding\C#\_C# Projects\dbManager\dbManager\bin\Debug\dbManager.pdb
+F:\01_Coding\C#\_C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.csprojResolveAssemblyReference.cache
+F:\01_Coding\C#\_C# Projects\dbManager\dbManager\obj\x86\Debug\Attach_Detach.Form1.resources
+F:\01_Coding\C#\_C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+F:\01_Coding\C#\_C# Projects\dbManager\dbManager\obj\x86\Debug\dbManager.csproj.GenerateResource.Cache
+F:\01_Coding\C#\_C# Projects\dbManager _VS2015\dbManager\obj\x86\Debug\dbManager.exe
+F:\01_Coding\C#\_C# Projects\dbManager _VS2015\dbManager\obj\x86\Debug\dbManager.pdb
+F:\01_Coding\C#\_C# Projects\dbManager _VS2015\dbManager\bin\Debug\dbManager.exe
+F:\01_Coding\C#\_C# Projects\dbManager _VS2015\dbManager\bin\Debug\dbManager.pdb
+F:\01_Coding\C#\_C# Projects\dbManager _VS2015\dbManager\obj\x86\Debug\dbManager.csprojResolveAssemblyReference.cache
+F:\01_Coding\C#\_C# Projects\dbManager _VS2015\dbManager\obj\x86\Debug\Attach_Detach.Form1.resources
+F:\01_Coding\C#\_C# Projects\dbManager _VS2015\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+F:\01_Coding\C#\_C# Projects\dbManager _VS2015\dbManager\obj\x86\Debug\dbManager.csproj.GenerateResource.Cache
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\dbManager\obj\x86\Debug\dbManager.exe
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\dbManager\obj\x86\Debug\dbManager.pdb
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\bin\Debug\dbManager.exe
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\bin\Debug\dbManager.pdb
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\Attach_Detach.Form1.resources
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.csproj.GenerateResource.Cache
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.exe
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.pdb
+F:\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.csprojResolveAssemblyReference.cache
+S:\_MyData\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.exe
+S:\_MyData\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.pdb
+S:\_MyData\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.csprojResolveAssemblyReference.cache
+S:\_MyData\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\Attach_Detach.Form1.resources
+S:\_MyData\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+S:\_MyData\01_Coding\C#\_C# Projects\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.csproj.GenerateResource.Cache
+E:\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.exe
+E:\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.pdb
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\dbManager.exe.config
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\dbManager.exe
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\dbManager.pdb
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\CODING\Z_VS 2015\dbManager\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\CODING\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.csprojResolveAssemblyReference.cache
+E:\CODING\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.Form1.resources
+E:\CODING\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+E:\CODING\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.csproj.GenerateResource.Cache
+E:\CODING\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.exe
+E:\CODING\Z_VS 2015\dbManager\obj\x86\Debug\dbManager.pdb
+T:\0000000\dbManager\bin\Debug\dbManager.exe.config
+T:\0000000\dbManager\bin\Debug\dbManager.exe
+T:\0000000\dbManager\bin\Debug\dbManager.pdb
+T:\0000000\dbManager\obj\x86\Debug\dbManager.csprojResolveAssemblyReference.cache
+T:\0000000\dbManager\obj\x86\Debug\dbManager.Form1.resources
+T:\0000000\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+T:\0000000\dbManager\obj\x86\Debug\dbManager.csproj.GenerateResource.Cache
+T:\0000000\dbManager\obj\x86\Debug\dbManager.csproj.CoreCompileInputs.cache
+T:\0000000\dbManager\obj\x86\Debug\dbManager.exe
+T:\0000000\dbManager\obj\x86\Debug\dbManager.pdb
+C:\Users\Eternity\Desktop\dbManager\bin\Debug\dbManager.exe.config
+C:\Users\Eternity\Desktop\dbManager\bin\Debug\dbManager.exe
+C:\Users\Eternity\Desktop\dbManager\bin\Debug\dbManager.pdb
+C:\Users\Eternity\Desktop\dbManager\obj\x86\Debug\dbManager.csprojResolveAssemblyReference.cache
+C:\Users\Eternity\Desktop\dbManager\obj\x86\Debug\dbManager.Form1.resources
+C:\Users\Eternity\Desktop\dbManager\obj\x86\Debug\dbManager.Properties.Resources.resources
+C:\Users\Eternity\Desktop\dbManager\obj\x86\Debug\dbManager.csproj.GenerateResource.Cache
+C:\Users\Eternity\Desktop\dbManager\obj\x86\Debug\dbManager.csproj.CoreCompileInputs.cache
+C:\Users\Eternity\Desktop\dbManager\obj\x86\Debug\dbManager.exe
+C:\Users\Eternity\Desktop\dbManager\obj\x86\Debug\dbManager.pdb
